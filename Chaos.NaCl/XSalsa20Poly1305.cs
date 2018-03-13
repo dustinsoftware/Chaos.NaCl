@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Chaos.NaCl.Internal;
-using Chaos.NaCl.Internal.Salsa;
+using Paseto.Internal.Chaos.NaCl.Internal;
+using Paseto.Internal.Chaos.NaCl.Internal.Salsa;
 
-namespace Chaos.NaCl
+namespace Paseto.Internal.Chaos.NaCl
 {
     public static class XSalsa20Poly1305
     {

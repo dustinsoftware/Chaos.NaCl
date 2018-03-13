@@ -5,7 +5,7 @@ using System.Linq;
 using System.Management;
 using System.Text;
 
-namespace Chaos.NaCl.Benchmark
+namespace Paseto.Internal.Chaos.NaCl.Benchmark
 {
     class Cpu
     {

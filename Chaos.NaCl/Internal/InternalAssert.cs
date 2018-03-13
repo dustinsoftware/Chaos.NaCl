@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chaos.NaCl.Internal
+namespace Paseto.Internal.Chaos.NaCl.Internal
 {
     internal static class InternalAssert
     {

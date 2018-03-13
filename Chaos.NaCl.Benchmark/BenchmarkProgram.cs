@@ -5,10 +5,10 @@ using System.Linq;
 using System.Globalization;
 using System.Security.Cryptography;
 using System.Threading;
-using Chaos.NaCl.Internal;
-using Chaos.NaCl.Internal.Salsa;
+using Paseto.Internal.Chaos.NaCl.Internal;
+using Paseto.Internal.Chaos.NaCl.Internal.Salsa;
 
-namespace Chaos.NaCl.Benchmark
+namespace Paseto.Internal.Chaos.NaCl.Benchmark
 {
     public class BenchmarkProgram
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Chaos.NaCl.Internal.Salsa
+namespace Paseto.Internal.Chaos.NaCl.Internal.Salsa
 {
     internal class Salsa20
     {

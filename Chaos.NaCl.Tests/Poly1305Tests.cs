@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Chaos.NaCl.Tests
+namespace Paseto.Internal.Chaos.NaCl.Tests
 {
     [TestClass]
     class Poly1305Tests

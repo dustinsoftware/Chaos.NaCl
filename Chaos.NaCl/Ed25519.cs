@@ -1,7 +1,7 @@
 ﻿using System;
-using Chaos.NaCl.Internal.Ed25519Ref10;
+using Paseto.Internal.Chaos.NaCl.Internal.Ed25519Ref10;
 
-namespace Chaos.NaCl
+namespace Paseto.Internal.Chaos.NaCl
 {
     public static class Ed25519
     {

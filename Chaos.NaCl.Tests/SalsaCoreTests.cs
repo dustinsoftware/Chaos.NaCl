@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using Chaos.NaCl.Internal;
-using Chaos.NaCl.Internal.Salsa;
+using Paseto.Internal.Chaos.NaCl.Internal;
+using Paseto.Internal.Chaos.NaCl.Internal.Salsa;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Chaos.NaCl.Tests
+namespace Paseto.Internal.Chaos.NaCl.Tests
 {
 	[TestClass]
 	public class SalsaCoreTests

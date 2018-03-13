@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Chaos.NaCl.Tests
+namespace Paseto.Internal.Chaos.NaCl.Tests
 {
 	class MontgomeryCurve25519TestVectors
 	{

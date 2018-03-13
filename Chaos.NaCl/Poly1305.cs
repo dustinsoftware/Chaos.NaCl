@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Chaos.NaCl.Internal;
+using Paseto.Internal.Chaos.NaCl.Internal;
 
-namespace Chaos.NaCl
+namespace Paseto.Internal.Chaos.NaCl
 {
     internal sealed class Poly1305 : OneTimeAuth
     {

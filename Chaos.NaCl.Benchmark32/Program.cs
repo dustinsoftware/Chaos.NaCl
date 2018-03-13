@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Chaos.NaCl.Benchmark;
+using Paseto.Internal.Chaos.NaCl.Benchmark;
 
-namespace Chaos.NaCl.Benchmark32
+namespace Paseto.Internal.Chaos.NaCl.Benchmark32
 {
     class Program
     {

@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics.Contracts;
 using System.Linq;
 
-namespace Chaos.NaCl.Tests
+namespace Paseto.Internal.Chaos.NaCl.Tests
 {
 	public class Ed25519TestVectors
 	{

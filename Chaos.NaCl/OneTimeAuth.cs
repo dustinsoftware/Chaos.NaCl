@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chaos.NaCl
+namespace Paseto.Internal.Chaos.NaCl
 {
     public abstract class OneTimeAuth
     {

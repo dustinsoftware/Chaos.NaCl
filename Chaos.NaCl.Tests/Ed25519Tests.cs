@@ -4,7 +4,7 @@ using System.Linq;
 using System.Numerics;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Chaos.NaCl.Tests
+namespace Paseto.Internal.Chaos.NaCl.Tests
 {
     [TestClass]
     public class Ed25519Tests

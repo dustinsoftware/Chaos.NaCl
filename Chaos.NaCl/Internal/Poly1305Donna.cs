@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Chaos.NaCl.Internal
+namespace Paseto.Internal.Chaos.NaCl.Internal
 {
     internal class Poly1305Donna
     {
